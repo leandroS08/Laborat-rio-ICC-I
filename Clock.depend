@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490630110 source:c:\users\leandro\documents\programação\relogio analogico\clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
