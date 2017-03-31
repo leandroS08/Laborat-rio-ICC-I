@@ -1,2 +1,2 @@
-# Laborat-rio-ICC-I
+# Laboratorio ICC-I
 Códigos aula.
