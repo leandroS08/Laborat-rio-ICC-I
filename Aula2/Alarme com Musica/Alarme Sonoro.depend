@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490967751 source:c:\users\leandro\documents\programação\relogio analogico\alarme - 2 som\alarme sonoro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
