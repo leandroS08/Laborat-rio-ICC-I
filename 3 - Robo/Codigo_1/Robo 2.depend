@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491577219 source:c:\users\leandro\documents\programação\lab icc\6 - robo\robo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
